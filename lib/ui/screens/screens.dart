@@ -1,0 +1,13 @@
+export 'welcome_page.dart';
+export './end/end.dart';
+export './home/home_screen.dart';
+export './login/forgot_password.dart';
+export './login/login_screen.dart';
+export './login/register_screen.dart';
+export './menu/main_screen.dart';
+// export './menu/menu.dart';
+export './menu/menu_screen.dart';
+export './menu/widget_menu/menu_item.dart';
+export './preferences/preferences_screen.dart';
+export './preferences/widget_preferences/attribute.dart';
+export './preferences/widget_preferences/name_and_number.dart';
